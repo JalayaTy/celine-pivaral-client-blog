@@ -1,0 +1,73 @@
+* {
+    margin: 0px;
+}
+body {
+    background: url(images/boat-4899802.jpg);
+    background-size: cover;
+}
+h1 {
+    background-color: #f76d85;
+    padding: 50px;
+    text-align: center;
+    color: #ffffff;
+    font-family: "Dancing Script", serif;
+}
+.navbar ul {
+    list-style-type: none;
+    background-color:#ae94ef;
+    border: 1px solid #b4a7d6;
+    overflow: hidden;
+}
+.navbar a {
+    color: #ffffff;
+    background-color:#9977f0;
+    font-family: "Merriweather", serif;
+    text-decoration: none;
+    padding: 10px;
+    margin: 4px 10px;
+    display: block;
+}
+.navbar li {
+    float: right;
+}
+a:hover {
+    background: #7531ec;
+}
+figure {
+    text-align: center;
+    background: #FFB1CB;
+}
+.container {
+    display: flex;
+    align-items: center; 
+    background: #b4a7d6;  
+    margin: 50px 100px;
+    padding: 10px;
+}
+h2, h3 {
+    font-family: "Merriweather", serif;
+    font-size: 20px;
+    color: #ffffff;
+    margin: 5px 0px 5px 46px;
+}
+p {
+    font-family: "Merriweather", serif;
+    color: #ffffff;
+    margin: 0px 50px 10px 50px;
+}
+footer {
+    background: #f76d85;
+    padding: 10px 0px 10px 0px;
+    color: #ffffff;
+    font-family: "Dancing Script", serif;
+    text-align: center;
+}
+.socials li {
+    display: inline-block;
+    list-style-type: none;
+    margin: 0px 20px;  
+}
+.copywrite {
+    font-family: "Dancing Script", serif;
+    margin-top: 10px;
+}
